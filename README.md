@@ -5,4 +5,4 @@ Build a basic neural network using TensorFlow, with a focus on the underlying ma
 Rough sketch of the working behind the neural network:
 
 
-![Description of image](neuralnetwork.png)
+![Description of image](rough.png)
