@@ -13,4 +13,4 @@ Moved on to CNN, where I worked with the CIFAR-10 data, achieving an accuracy of
 Rough sketch of the CNN architecture I used:
 
 
-![Description of image](rough2.png)
+![Description of image](rough1.png)
